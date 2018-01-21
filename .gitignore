@@ -31,8 +31,10 @@
 *.out
 *.app
 
-# Build directory
-bin/
-
 # VS Code directory
 .vscode/
+
+# Project dirs
+/bin/
+/lib/*
+!/lib/include/
