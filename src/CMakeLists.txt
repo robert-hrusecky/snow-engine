@@ -1,1 +1,1 @@
-add_library(Snow ${srcs})
+add_library(SnowEngine ${srcs})
