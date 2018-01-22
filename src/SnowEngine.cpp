@@ -21,4 +21,10 @@ int init()
 	return 0;
 }
 
+int quit() {
+	// Quit SDL
+	SDL_Quit();
+	return 0;
+}
+
 }

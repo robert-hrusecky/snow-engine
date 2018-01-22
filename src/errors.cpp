@@ -8,7 +8,7 @@
 #include <iostream>
 #include <SDL2/SDL.h>
 #include <cstdlib>
-#include "gferrors.h"
+#include "errors.h"
 
 namespace SnowEngine
 {

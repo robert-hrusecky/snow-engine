@@ -1,5 +1,5 @@
 /*
- * gfconstants.h
+ * constants.h
  *
  *  Created on: Aug 23, 2015
  *      Author: Robert

@@ -10,7 +10,7 @@
 #include <vector>
 #include <GL/glew.h>
 
-#include "gferrors.h"
+#include "errors.h"
 #include "IOManager.h"
 #include "picopng.h"
 

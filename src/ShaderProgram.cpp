@@ -8,7 +8,7 @@
 #include "ShaderProgram.h"
 
 #include <cstdio>
-#include "gferrors.h"
+#include "errors.h"
 #include "IOManager.h"
 
 namespace SnowEngine

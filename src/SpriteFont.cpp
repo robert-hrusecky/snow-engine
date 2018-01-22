@@ -9,7 +9,7 @@
 
 #include <fstream>
 
-#include "gferrors.h"
+#include "errors.h"
 #include "ResourceManager.h"
 #include "GLTexture.h"
 

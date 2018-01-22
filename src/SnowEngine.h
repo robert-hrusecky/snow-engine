@@ -11,6 +11,7 @@ namespace SnowEngine
 {
 
 int init();
+int quit();
 
 }
 

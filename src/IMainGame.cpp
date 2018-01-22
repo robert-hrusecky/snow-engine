@@ -12,7 +12,7 @@
 #include <algorithm>
 
 #include "IGameScreen.h"
-#include "gferrors.h"
+#include "errors.h"
 
 namespace SnowEngine
 {
@@ -72,6 +72,7 @@ void IMainGame::run()
 	}
 	m_activeScreen->onPause();
 	onStop();
+	SnowEngine::quit();
 }
 
 void IMainGame::addScreen(IGameScreen* screen, const char* name)

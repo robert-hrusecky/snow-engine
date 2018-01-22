@@ -7,7 +7,7 @@
 
 #include "AudioEngine.h"
 
-#include "gferrors.h"
+#include "errors.h"
 
 namespace SnowEngine
 {

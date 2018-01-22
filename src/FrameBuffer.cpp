@@ -7,7 +7,7 @@
 
 #include "FrameBuffer.h"
 
-#include "gferrors.h"
+#include "errors.h"
 #include "ImageLoader.h"
 namespace SnowEngine
 {

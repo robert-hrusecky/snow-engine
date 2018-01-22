@@ -8,7 +8,7 @@
 #include "DebugRenderer.h"
 #include <string>
 
-#include "gfconstants.h"
+#include "constants.h"
 namespace SnowEngine
 {
 
